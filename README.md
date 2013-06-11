@@ -1,0 +1,1 @@
+It's a simple RoR project, which used for learning.
